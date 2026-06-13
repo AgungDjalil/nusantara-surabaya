@@ -27,7 +27,7 @@ const Hero = () => (
 
     <div
       className="relative min-h-[620px] max-[980px]:min-h-[520px] max-[640px]:min-h-[420px] border border-wood shadow-[0_18px_44px_var(--color-shadow)] overflow-hidden bg-cover bg-center"
-      style={{ backgroundImage: "url(https://images.unsplash.com/photo-1563379926898-05f4575a45d8?w=800&h=1000&fit=crop)" }}
+      style={{ backgroundImage: "url(assets/rawon-fav.png)" }}
       aria-label="Rawon Surabaya dish photo"
     >
       <div className="absolute inset-0 bg-gradient-to-t from-[oklch(20%_0.02_60_/_0.55)] via-[oklch(20%_0.02_60_/_0.08)] to-transparent" />

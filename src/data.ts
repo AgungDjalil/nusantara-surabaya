@@ -18,7 +18,7 @@ export const dishes: Dish[] = [
     serving: "Best for dinner",
     color: "oklch(28% 0.04 52)",
     image:
-      "https://loremflickr.com/800/600/indonesian,soup,beef,rawon",
+      "assets/rawon.avif",
     description:
       "Slow beef rib in keluak broth, bean sprouts, salted egg, lime, and a small bowl of sambal terasi. Built around the dark, earthy flavor Surabaya diners know well.",
   },
@@ -30,7 +30,7 @@ export const dishes: Dish[] = [
     serving: "Family sharing",
     color: "oklch(62% 0.13 38)",
     image:
-      "https://loremflickr.com/800/600/grilled,chicken,indonesian,food",
+      "assets/ayam-bakar.avif",
     description:
       "Charred spice-marinated chicken with urap sayur, warm rice, cucumber, basil, and sweet soy glaze. Smoky, aromatic, and easy to share at the center of the table.",
   },
@@ -42,7 +42,7 @@ export const dishes: Dish[] = [
     serving: "Lunch or takeaway",
     color: "oklch(50% 0.1 135)",
     image:
-      "https://loremflickr.com/800/600/indonesian,rice,vegetables,food",
+      "assets/nasi-daun.avif",
     description:
       "Banana-leaf rice set with seasonal vegetables, fried tempeh, serundeng, and a rotating house sambal. Designed as a complete plate for lunch, takeaway, or a quick first visit.",
   },

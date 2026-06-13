@@ -8,9 +8,9 @@ const About = () => (
       aria-label="Batik and woven texture panel"
     >
       <img
-        src="https://loremflickr.com/800/1000/indonesian,restaurant,interior,traditional"
+        src="assets/tempat-makan.avif"
         alt="Restaurant interior"
-        className="absolute inset-0 w-full h-full object-cover opacity-60 mix-blend-multiply"
+        className="absolute inset-0 w-full h-full object-cover mix-blend-multiply"
       />
     </div>
 
